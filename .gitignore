@@ -1,0 +1,65 @@
+# Project exclude paths
+/.gradle/
+/Problems/Counting words/out/
+/Problems/Counting words/out/production/classes/
+/Problems/Creating a map/out/
+/Problems/Creating a map/out/production/classes/
+/Problems/Creating a set/out/
+/Problems/Creating a set/out/production/classes/
+/Problems/Displaying pairs/out/
+/Problems/Displaying pairs/out/production/classes/
+/Problems/Does the array contain the element?/out/
+/Problems/Does the array contain the element?/out/production/classes/
+/Problems/Filtering the list/out/
+/Problems/Filtering the list/out/production/classes/
+/Problems/Find a value's index/out/
+/Problems/Find a value's index/out/production/classes/
+/Problems/Getting submaps/out/
+/Problems/Getting submaps/out/production/classes/
+/Problems/Greek letters/out/
+/Problems/Greek letters/out/production/classes/
+/Problems/Kidnapper of Ice cream/out/
+/Problems/Kidnapper of Ice cream/out/production/classes/
+/Problems/Modifying a map/out/
+/Problems/Modifying a map/out/production/classes/
+/Problems/Multiset/out/
+/Problems/Multiset/out/production/classes/
+/Problems/Output elements/out/
+/Problems/Output elements/out/production/classes/
+/Problems/Removing duplicates and sorting/out/
+/Problems/Removing duplicates and sorting/out/production/classes/
+/Problems/Removing elements/out/
+/Problems/Removing elements/out/production/classes/
+/Problems/Search indexes of values in another array/out/
+/Problems/Search indexes of values in another array/out/production/classes/
+/Problems/Sherlock Holmes and removing of characters/out/
+/Problems/Sherlock Holmes and removing of characters/out/production/classes/
+/Problems/Sherlock Holmes and the mystery of anagrams/out/
+/Problems/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Problems/Split a list into sublists/out/
+/Problems/Split a list into sublists/out/production/classes/
+/Problems/Strict superset/out/
+/Problems/Strict superset/out/production/classes/
+/Problems/Substitution cipher/out/
+/Problems/Substitution cipher/out/production/classes/
+/Problems/Symmetric difference/out/
+/Problems/Symmetric difference/out/production/classes/
+/Problems/The first occurrence in the subarray/out/
+/Problems/The first occurrence in the subarray/out/production/classes/
+/Problems/The index of the K occurrence/out/
+/Problems/The index of the K occurrence/out/production/classes/
+/Problems/The index of the last occurrence/out/
+/Problems/The index of the last occurrence/out/production/classes/
+/Problems/The longest string in the list/out/
+/Problems/The longest string in the list/out/production/classes/
+/Problems/The number of occurrences/out/
+/Problems/The number of occurrences/out/production/classes/
+/Problems/Tricky sub-maps/out/
+/Problems/Tricky sub-maps/out/production/classes/
+/Problems/War and Peace/out/
+/Problems/War and Peace/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/test/classes/
